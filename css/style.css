@@ -30,3 +30,26 @@ header h1 {
 .projects-list {
   padding: 30px 50px;
 }
+
+/* ----------- Project styles ----------- */
+
+.project {
+  border: 1px solid brown;
+  padding: 40px 40px;
+  margin-bottom: 50px;
+}
+
+.project h2 {
+  margin-bottom: 20px;
+}
+
+.project img {
+  width: 600px;
+  height: 350px;
+  margin-bottom: 50px;
+}
+
+.project .project-description {
+  font-weight: bold;
+  color: rgb(10, 10, 69);
+}
