@@ -24,3 +24,9 @@ header {
 header h1 {
   margin-bottom: 20px;
 }
+
+/* ----------- Projects list styles ----------- */
+
+.projects-list {
+  padding: 30px 50px;
+}
