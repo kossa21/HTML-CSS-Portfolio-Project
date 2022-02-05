@@ -53,3 +53,11 @@ header h1 {
   font-weight: bold;
   color: rgb(10, 10, 69);
 }
+
+/* ----------- Footer styles ----------- */
+
+footer {
+  background-color: black;
+  padding: 30px 50px;
+  color: white;
+}
