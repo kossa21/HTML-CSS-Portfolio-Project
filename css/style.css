@@ -1,12 +1,26 @@
 /* ----------- General styles ----------- */
 
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
   background-color: rgb(242, 237, 199);
-  padding: 50px 50px 0 50px;
+}
+
+/* ----------- Header styles ----------- */
+
+header {
+  background-color: white;
+  padding: 20px 50px;
+  width: 100%;
+}
+
+header h1 {
+  margin-bottom: 20px;
 }
